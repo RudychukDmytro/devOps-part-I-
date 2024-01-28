@@ -5,3 +5,7 @@ do
    echo The counter is $COUNTER 
    let COUNTER=$COUNTER+1 
 done
+#!/bin/bash
+clear
+echo hello world
+exit 0
